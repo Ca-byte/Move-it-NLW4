@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="Moveit" src=".github/moveit.PNG" width="120px">
+  <img alt="" src="https://github.com/Ca-byte/Move-it-NLW4/blob/main/moveit.PNG" width="600px">
 </p>
 
 
