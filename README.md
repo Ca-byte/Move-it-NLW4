@@ -1,8 +1,6 @@
 
 
-<h1 align="center">
-    <img alt="Move.it" title="" src="" />
-</h1>
+
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
