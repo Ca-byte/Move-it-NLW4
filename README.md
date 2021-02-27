@@ -1,4 +1,4 @@
-# Move-it-NLW4
+
 
 <h1 align="center">
     <img alt="Move.it" title="" src="" />
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Move.it veio para te lembrar de que se movimentar trás qualidade e mais concentração para um bom dia de trabalho! 
+O Move.it veio para te lembrar de que se movimentar depois de alguns minutos de atividades, pode ser divertido além de trazer com a pausa qualidade e mais concentração para um bom dia de trabalho ou estudo! 
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 22 a 28 de Fevereiro de 2021.
 
@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<p align="center">Desenvolvido com 💜 por Caroline Vieira</p>
+<p>Desenvolvido com 💜 por Caroline Vieira</p>
