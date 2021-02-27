@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img alt="Moveit" src=".github/moveit.PNG" width="120px">
+</p>
 
 
 <p align="center">
