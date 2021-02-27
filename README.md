@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="120px">
+  <img alt="" src="https://github.com/Ca-byte/Move-it-NLW4/blob/main/public/logo-full.svg" width="120px">
 </p>
 
 ## 🚀 Tecnologias
