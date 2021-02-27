@@ -6,7 +6,7 @@
 
 :root {
     --white: #fff;
-    --background: linear-gradient(to left, #682cb7, #7928bb, #6c1a96, #6c1087, #690678);
+    --background: linear-gradient(to right top, #39087c, #48067b, #54057a, #5f0579, #690678);
     --gray-line: #DCDDE0;
     --text: #14a3c7;
     --text-highlight: #b3e7ff;
