@@ -6,11 +6,11 @@
 
 :root {
     --white: #fff;
-    --background:#F2F3F5;
+    --background: linear-gradient(to left, #682cb7, #7928bb, #6c1a96, #6c1087, #690678);
     --gray-line: #DCDDE0;
-    --text: #666666;
-    --text-highlight: #B3B9FF;
-    --title: #2E384D;
+    --text: #14a3c7;
+    --text-highlight: #b3e7ff;
+    --title: #e20b81;
     --red: #E83F5B;
     --green:#4CD62B;
     --blue: #5965E0;
